@@ -1,0 +1,1 @@
+This is the first project fo Alex Will's attempt at the Odin project. The assignment is to recreate the Google homepage using HTML and CSS. The links do not need to function but should be styled appropriately.
